@@ -1,24 +1,11 @@
-# README
+# Getting_Your_Feet_Wet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#If you're using Ubuntu linux
+In order to use pg gem, you have to install new libraries:
+`sudo apt-get install postgresql-client libpq5 libpq-dev`
 
-Things you may want to cover:
+Now install pg gem by running:
+`gem install pg`
+Don't use sudo command, if you haven't install rbenv then do it.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Continue with the instructions in the odin project.](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails)
