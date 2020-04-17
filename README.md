@@ -1,5 +1,5 @@
 # Getting_Your_Feet_Wet
-
+[Live Demo](https://first-rails-app-microverse.herokuapp.com/)
 #If you're using Ubuntu linux
 In order to use pg gem, you have to install new libraries:
 `sudo apt-get install postgresql-client libpq5 libpq-dev`
