@@ -3,7 +3,7 @@
 [Live Demo](https://first-rails-app-microverse.herokuapp.com/)
 
 
-## If you're using Ubuntu linux
+### For Ubuntu linux
 
 In order to use pg gem, you have to install new libraries:
 
